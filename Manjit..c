@@ -1,4 +1,5 @@
 #include<stdio.h>
+void add
 main()
 {
 printf("\n welcome manjit");
