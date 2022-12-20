@@ -22,7 +22,7 @@ main()
 		}
 	}
 	printf("\n second smallest element=%d",a[2]);
-	printf("\ n second last largest no =%d",a[n-1]);
+	printf("\ n second last last largest no =%d",a[n-1]);
 	return 0;
 }
 
