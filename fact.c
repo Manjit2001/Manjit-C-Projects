@@ -14,3 +14,4 @@ void add()
   scanf("%d%d",&a,&b);
   c=a+b;
   printf("\n add=%d",c);
+}
